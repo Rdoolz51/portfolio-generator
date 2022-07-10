@@ -1,0 +1,6 @@
+{
+    "editor.formatOnSave": true,
+    "prettier.configPath": "prettierc",
+    "typescript.format.semicolons": "insert",
+    "typescript.format.insertSpaceBeforeFunctionParenthesis": true
+}
