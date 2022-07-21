@@ -1,0 +1,1 @@
+If this directory "./dist" has the files index.html and style.css, you will not be able to redo your portfolio without deleting them first. Once you delete the 2 files, node app.js again and start over with user input! Thanks
