@@ -78,7 +78,7 @@ module.exports = templateData => {
         <h1 class="page-title text-secondary bg-dark py-2 px-3">${header.name}</h1>
         <nav class="flex-row">
           <a class="ml-2 my-1 px-2 py-1 bg-secondary text-dark" href="https://github.com/${header.github
-        }">GitHub</a>
+        }"><i class="fab fa-github"></i>GitHub</a>
         </nav>
       </div>
     </header>
